@@ -1,0 +1,394 @@
+    1  sudo apt-get update
+    2  exit
+    3  sudo apt-get install firefox
+    4  sudo apt-get install fish
+    5  fish
+    6  sudo apt-get update
+    7  sudo apt install fish
+    8  fish
+    9  exit
+   10  sudo apt remove pantheon-mail 
+   11  sudo apt remove epiphany-browser
+   12  exit
+   13  man chmod
+   14  chmod +x Anaconda3-2019.07-Linux-x86_64.sh 
+   15  bash Anaconda3-2019.07-Linux-x86_64.sh 
+   16  export PATH=/home/ferdous/anaconda3/bin:$PATH
+   17  conda --version
+   18  anaconda-navigator 
+   19  man path
+   20  man PATH
+   21  man export
+   22  fish
+   23  shutdown
+   24  shutdown noow
+   25  shutdown now
+   26  fish
+   27  sudo apt install sublime-text
+   28  sudo apt install firefox
+   29  anaconda-navigator 
+   30  anaconda
+   31  sudo apt install firefox
+   32  sudo apt install guake
+   33  apt search sublime
+   34  snap search sublime-text
+   35  apt search sublime-txt
+   36  ls
+   37  sudo dpkg -i sublime_text_3_build_3207_x64.tar.bz2
+   38  cd
+   39  fish
+   40  sudo apt install vim
+   41  vim
+   42  sudo apt install youtube-dl
+   43  cd Videos/
+   44  ls
+   45  vim sunny
+   46  sudo dpkg -i rstudio-1.2.1335-amd64.deb 
+   47  neofetch
+   48  lsof /var/lib/dpkg/lock
+   49  sudo dpkg -i rstudio-1.2.1335-amd64.deb 
+   50  ps cax | grep PID
+   51  sudo dpkg --configure -a
+   52  cd Downloads/
+   53  sudo dpkg -i rstudio-1.2.1335-amd64.deb 
+   54  rstudio
+   55  sudo rm /var/lib/dpkg/lock
+   56  sudo dpkg --configure -a
+   57  sudo apt-get install -f
+   58  r
+   59  sudo apt get update
+   60  sudo apt update
+   61  sudo apt install R
+   62  sudo apt install r
+   63  R
+   64  sudo apt install r-base
+   65  sudo apt install -f r-base
+   66  cd Downloads
+   67  fidh
+   68  fish
+   69  sudo apt -y install r-base
+   70  sudo apt-get install r-base
+   71  rstudio
+   72  sudo apt purge rstudio
+   73  sudo apt autoremove rstudio
+   74  deb https://cloud.r-project.org/bin/linux/ubuntu cosmic-cran35/
+   75  vim /etc/apt/sources.list
+   76  cd Downloads
+   77  R
+   78  vim ~/.bashrc
+   79  restart
+   80  cd Downloads/
+   81  ls
+   82  vim  listcommands 
+   83  sudo killall apt-get
+   84  sudo apt-get update
+   85  sudo dpkg --configure -a
+   86  sudo apt autoremove
+   87  apt --fix-broken install
+   88  sudo rm /var/lib/apt/lists/lock
+   89  sudo apt-get install gdebi-core
+   90  sudo apt install gdebi
+   91  sudo apt-get install gdebi
+   92  apt autoremove
+   93  apt clean 
+   94  apt autoclean 
+   95  apt update && apt dist-upgrade
+   96  apt --fix-broken install
+   97  rm /etc/apt/sources.list.d/webupd8team-ubuntu-atom-cosmic.list
+   98  rm /etc/apt/sources.list.d/java-8-debian.list
+   99  rm /etc/apt/sources.list.d/getdeb.list
+  100  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+  101  sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/'
+  102  sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/'
+  103  localepurge
+  104  sudo apt update
+  105  sudo apt install r-base
+  106  rstudio 
+  107  sudo apt --fix-broken install
+  108  rstudio 
+  109  vim sunny
+  110  ls
+  111  cd Downloads
+  112  ls
+  113  chmod 766 listcommands 
+  114  vim listcommands 
+  115  man R
+  116  chmod -x sunny
+  117  vim sunny
+  118  shutdown now
+  119  subl
+  120  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  121  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  122  +3
+  123  x = 10
+  124  y = 20
+  125  if x > y;    print(x)
+  126  else 
+  127  sudo apt remove sublime-text && sudo apt autoremove
+  128  sudo apt install python
+  129  sudo apt install idle
+  130  sudo apt install idle
+  131  python3
+  132  exit
+  133  x = raw_input()
+  134  y= raw_input ()
+  135  if x==y ; print (x)
+  136  else; 
+  137  python3
+  138  exit
+  139  shutdown now
+  140  history
+  141  history >need.txt
+  142  vim need.txt 
+  143  youtube-dl -f 22 https://www.youtube.com/playlist?list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U
+  144  youtube-dl -f https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  145  youtube-dl https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  146  youtube-dl --ve
+  147  youtube-dl --verbose https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  148  pip install --upgrade youtube-dl
+  149  youtube-dl -f 22 https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  150  sudo apt-get remove -y youtube-dl
+  151  sudo apt-get remove youtube-dl
+  152  sudo apt-add-repository ppa:nilarimogard/webupd8
+  153  sudo apt-get update
+  154  sudo apt-get install youtube-dl
+  155  youtube-dl -f 22 https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  156  sudo chmod a+x /usr/local/bin/youtube-dl
+  157  sudo apt-get remove -y youtube-dl
+  158  sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
+  159  sudo chmod a+x /usr/local/bin/youtube-dl
+  160  youtube-dl https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  161  youtube-dl -f 22 https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  162  sudo apt-get remove -y youtube-dl
+  163  sudo apt-get remove youtube-dl
+  164  sudo apt-add-repository ppa:nilarimogard/webupd8
+  165  sudo apt-get update
+  166  sudo apt-get install youtube-dl
+  167  youtube-dl https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11
+  168  youtube-dl "https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11'
+  169  youtube-dl "https://www.youtube.com/watch?v=Wvehuu6fyAE&list=PL5e68lK9hEzcduOKAjayn5HsxZUCypc2U&index=11"
+  170  exit
+  171  fish
+  172  sudo snap install qbitorrent
+  173  apt search qbbit
+  174  apt search qbit
+  175  sudo apt install qbittorrent
+  176  ls
+  177  vim need.txt 
+  178  sudo apt install gparted
+  179  sudo apt install unetbootin
+  180  apt search unet
+  181  apt search boot
+  182  Nmcli radio wifi on
+  183  iwconfig
+  184  sudo ifconfig wlp3s0 up
+  185  cd Downloads
+  186  youtube-dl https://www.youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU
+  187  sufo reboot
+  188  sudo reboot 
+  189  youtube-dl -f 22 https://www.youtube.com/watch?v=y0Vwi7O5l6k&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=65&t=0s
+  190  youtube-dl https://www.youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU
+  191  youtube-dl https://www.youtube.com/watch?v=DOnucdP7LNU&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=63&t=0s
+  192  k
+  193  youtube-dl 
+  194  youtube-dl https://www.youtube.com/watch?v=zUnC1CV4FAc&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=64&t=0s
+  195  youtube-dl -f 22 https://www.youtube.com/watch?v=horm4zWU-vA&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=66&t=0s
+  196  youtube-dl https://www.youtube.com/watch?v=-Xz89dB_Hco&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=67&t=0s
+  197  youtube-dl -f 22 https://www.youtube.com/watch?v=dl0CXDsTYjk&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=68&t=0s
+  198  youtube-dl -f 22 https://www.youtube.com/watch?v=6F6frEyMxuk&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=69&t=0s
+  199  youtube-dl -f 22 https://www.youtube.com/watch?v=sVkzPI1M7Ms&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=70&t=0s
+  200  youtube-dl -f 22 https://www.youtube.com/watch?v=nKQ2KcCCnb0&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=71&t=0s
+  201  youtube-dl -f 22 https://www.youtube.com/watch?v=d96hI8vQRvs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=72&t=0s
+  202  youtube-dl -f 22 https://www.youtube.com/watch?v=zH_3FBKuQHA&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU&index=74&t=0s
+  203  youtube-dl -f 22 https://www.youtube.com/playlist?list=PLqzoL9-eJTNBJrvFcN-ohc5G13E7Big0e
+  204  youtube-dl -f 22 https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa
+  205  cd
+  206  sudo reboot
+  207  vim --help
+  208  screenfetch
+  209  sudo apt install screenfetch
+  210  screenfetch
+  211  exit 
+  212  quit
+  213  exit
+  214  fish
+  215  exit
+  216  ping google.com
+  217  cd Downloads/
+  218  vim pythagorean_triangle_checker.py.py 
+  219  mkdir python_projects
+  220  mv nest.py python_projects
+  221  cd python_projects/
+  222  ls
+  223  git
+  224  python nest.py
+  225  fish
+  226  ls
+  227  vim magic.py
+  228  fish
+  229  exit
+  230  guake
+  231  guakwe
+  232  guake
+  233  sudo apt install gparted
+  234  gparted
+  235  apt search wps
+  236  fish
+  237  cd
+  238  fish
+  239  l
+  240  ls
+  241  vim .bashrc
+  242  l
+  243  vim .bashrc
+  244  l
+  245  l
+  246  man alias
+  247  man ls
+  248  man grep
+  249  cd ..
+  250  l
+  251  cd media
+  252  l
+  253  cd ferdous/
+  254  l
+  255  cd 80565A015659F87C/
+  256  l
+  257  cd ..
+  258  l
+  259  cd dev
+  260  l
+  261  cd ..
+  262  l
+  263  cd media/
+  264  l
+  265  cd ferdous
+  266  l
+  267  cd 0
+  268  cd 80565A015659F87C/
+  269  l
+  270  cd videos
+  271  cd Videos/
+  272  l
+  273  cd pic
+  274  cd Pictures
+  275  cd Islam
+  276  fish
+  277  l
+  278  ls
+  279  vim .bashrc
+  280  cd
+  281  l
+  282  history 
+  283  fish
+  284  exit
+  285  shutdown now
+  286  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.12-saucy/linux-headers-3.12.0-031200-generic_3.12.0-031200.201311031935_amd64.deb
+  287  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.12-saucy/linux-headers-3.12.0-031200_3.12.0-031200.201311031935_all.deb
+  288  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.12-saucy/linux-image-3.12.0-031200-generic_3.12.0-031200.201311031935_amd64.deb
+  289  l
+  290  fish
+  291  guake
+  292  sudo apt install guake
+  293  guake
+  294  sudo apt install Konsole
+  295  sudo apt install elemantory tweak 
+  296  fish
+  297  vim ~/.bashrc 
+  298  clear
+  299  sudo apt-get install arc-theme
+  300  sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf
+  301  sudo add-apt-repository ppa:dyatlov-igor/sierra-theme
+  302  sudo apt update 
+  303  sudo apt install sierra-gtk-theme
+  304  mkdir tmp
+  305  cd tmp/
+  306  git clone https://github.com/btd1337/La-Sierra-Icon-Theme ~/.icons/La-Sierra
+  307  gsettings set org.gnome.desktop.interface icon-theme "La-Sierra"
+  308  sudo add-apt-repository ppa:papirus/papirus
+  309  sudo apt-get update 
+  310  sudo apt-get install papirus-icon-theme 
+  311  sudo apt-get remove epiphany-browser
+  312  vim
+  313  ls
+  314  cd python_projects/
+  315  ls
+  316  vim guess.py 
+  317  ls -la
+  318  rm .guess.py.swp 
+  319  vim guess.py 
+  320  vim
+  321  apt search telegram
+  322  sudo apt install telegram-desktop
+  323  telegram-desktop --version
+  324  telegram-desktop -version
+  325  telegram-desktop version
+  326  sudo mv ~/Documents/Numix /usr/share/themes
+  327  apt search visual code
+  328  apt search vss
+  329  cd python_projects/
+  330  vim ytm.py
+  331  python ytm.py
+  332  vim ytm.py
+  333  python ytm.py
+  334  vim ytm.py
+  335  python ytm.py
+  336  vim ytm.py
+  337  python ytm.py
+  338  vim ytm.py
+  339  python ytm.py
+  340  vim ytm.py
+  341  python ytm.py
+  342  vim ytm.py
+  343  python ytm.py
+  344  vim ytm.py
+  345  python ytm.py
+  346  vim ytm.py
+  347  python ytm.py
+  348  vim ytm.py
+  349  python ytm.py
+  350  vim ytm_low.py 
+  351  rm ytm_low.py 
+  352  cp ytm.py ttm.py
+  353  vim ttm.py
+  354  python ttm.py 
+  355  vim ttm.py 
+  356  python ytm.py 
+  357  vim ttm.py 
+  358  rm ttm.py 
+  359  ls
+  360  git clone https://github.com/Ferdoushasan12/python_projects.git
+  361  git add --all 
+  362  ls
+  363  mv *.py python_projects/
+  364  cd python_projects/
+  365  ls
+  366  git add -- all 
+  367  git add --all
+  368  git status
+  369  git commit -m 'python files'
+  370  git config --global user.email "ferdoushasansany12@gmail.com"
+  371  git config --global user.name "Ferdoushasan12"
+  372  git commit -m 'python files'
+  373  git push
+  374  LS
+  375  ls
+  376  mv * ../
+  377  ls
+  378  cd ..
+  379  rm python_projects/
+  380  rmdir python_projects/
+  381  cd python_projects/
+  382  ls
+  383  ll
+  384  mv .git/ ../
+  385  ll
+  386  cd ..
+  387  rmdir python_projects/
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd python_projects/
+  392  ls
+  393  history
+  394  history >list.txt
